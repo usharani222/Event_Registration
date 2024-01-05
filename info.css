@@ -1,0 +1,51 @@
+*
+{
+  margin: 0px;
+  border: 0px;
+  font-family: 'Merriweather', serif;
+}
+body
+{
+    background-image:url('./assests/img/9.jpg');
+}
+header
+{
+    align-items: center;
+}
+#main 
+{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 570px;
+}
+#proc
+{
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 220px;
+}
+#time
+{
+     align-items: flex-start;
+     margin-left: 690px;
+     text-align: 50%;
+}
+#cancel
+{
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 220px;
+
+}
+#pay
+{
+    align-items: flex-start ;
+    margin-top: 25px;
+    margin-left: 690px ;
+}
+#end
+{
+    align-items: center;
+    margin-top: 21px;
+    margin-left: 555px;
+}

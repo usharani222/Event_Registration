@@ -1,0 +1,88 @@
+*
+{
+    margin: 0%;
+    border: 0%;
+}
+body
+{
+  background-image: url('./assests/img/9.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Arbutus Slab', serif;
+  font-weight: 900px;
+}
+header
+{
+    align-items: center;
+}
+#name
+{
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 500px;
+
+}
+#dan
+{
+    align-items: center;
+    margin-top: 35px;
+    margin-left: 300px;
+}
+#dan:hover
+{
+    color:coral
+}
+#sin
+{
+   align-items: center;
+   margin-left: 750px;
+}
+#sin:hover
+{
+    color:coral;
+}
+#hack
+{
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+#hack:hover
+{
+    color: coral;
+}
+#code
+{
+    align-items: center;
+    margin-left: 750px;
+}
+#code:hover
+{
+    color:coral
+}
+#quiz
+{
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+#quiz:hover
+{
+    color: coral;
+}
+#dj
+{
+    align-items: center;
+    margin-left: 750px;
+}
+#dj:hover
+{
+    color: coral;
+}
+#thank
+{
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+}

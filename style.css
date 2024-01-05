@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    border: 0px;
+    font-family: 'Cinzel', serif;
+    
+   
+}
+
+body
+{
+    background-image:url('./assests/WhatsApp\ Image\ 2023-02-14\ at\ 12.39.00.jpg');
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header
+{
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 50%;
+    font-size: 40px;
+}
+section
+{
+    margin-top: 70px;
+    margin-left: 60%;
+    
+}
+#year
+{
+    margin-left: 55%;
+}
+#season
+{
+    margin-left: 2;
+}
+#s
+{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+button
+{
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: px;
+}
+button:hover
+{
+    color: rgb(226, 43, 49);
+
+}
+footer{
+    margin-top: 80px;
+    margin-left: 65%;
+    font-weight: 60px;
+}
+#info:hover
+{
+    background-color:#F49494 ;
+    border-radius: 20px;
+}
+#home:hover
+{
+    background-color: #F49494;
+    border-radius: 20px;
+}
+#details:hover
+{
+    background-color: #F49494;
+    border-radius: 20px;
+}
